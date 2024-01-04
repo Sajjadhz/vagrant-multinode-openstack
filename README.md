@@ -11,5 +11,5 @@ In this repository we are trying to install multi node openstack version bobcat 
 On your browser go to the 10.0.0.11/horizon login with user: 'admin' and password: 'openstack', default domain is 'Default', you should change the password for you environment.
 
 ## How to destroy
-In order to destroy the vms run followin command.
+In order to destroy the vms run following command.
 `vagrant destroy`
