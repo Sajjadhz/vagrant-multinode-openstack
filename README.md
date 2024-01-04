@@ -7,3 +7,5 @@ In this repository we are trying to install multi node openstack version bobcat 
 3. cd vagrant-multinode-openstack
 4. vagrant up
 
+## How to use
+On your browser go to the 10.0.0.11/horizon login with user: 'admin' and password: 'openstack', default domain is 'Default', you should change the password for you environment.
